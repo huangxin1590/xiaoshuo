@@ -36,7 +36,7 @@
     {
       "subject": "protagonist",
       "predicate": "当前敌我",
-      "object": "敌：林风（被一拳打伤，结仇）、大长老林震岳（态度不明，但已不满）、柳家（退婚，关系破裂）；中立/潜在友：二长老林远山（曾教他修炼，嘴角有笑意）",
+      "object": "敌：林风（被一拳打伤，结仇）、大长老林震岳（态度不明，但已不满）、沈家（退婚，关系破裂）；中立/潜在友：二长老林远山（曾教他修炼，嘴角有笑意）",
       "validFromChapter": 1,
       "validUntilChapter": null,
       "sourceChapter": 1
@@ -44,7 +44,7 @@
     {
       "subject": "protagonist",
       "predicate": "当前冲突",
-      "object": "林尘当众反击林风，修为恢复暴露，引发全族震动；与柳家退婚关系彻底破裂；三年前被废的真相仍未知",
+      "object": "林尘当众反击林风，修为恢复暴露，引发全族震动；与沈家退婚关系彻底破裂；三年前被废的真相仍未知",
       "validFromChapter": 1,
       "validUntilChapter": null,
       "sourceChapter": 1

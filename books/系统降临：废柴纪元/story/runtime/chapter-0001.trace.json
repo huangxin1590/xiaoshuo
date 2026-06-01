@@ -12,16 +12,24 @@
     "D:\\code\\xiaoshuo\\books\\系统降临：废柴纪元\\story\\memory.db"
   ],
   "composerInputs": [
-    "D:\\code\\xiaoshuo\\books\\系统降临：废柴纪元\\story\\runtime\\chapter-0001.intent.md"
+    "D:\\code\\my\\xiaoshuo\\books\\系统降临：废柴纪元\\story\\runtime\\chapter-0001.intent.md"
   ],
   "selectedSources": [
     "runtime/chapter_memo",
     "story/current_focus.md",
+    "story/audit_drift.md",
     "story/current_state.md",
     "story/outline/story_frame.md",
     "story/outline/volume_map.md",
-    "story/current_state.md#note-8",
-    "story/pending_hooks.md#伏笔ID"
+    "runtime/hook_debt#H001",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前敌我",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态",
+    "story/pending_hooks.md#H001",
+    "story/pending_hooks.md#H002",
+    "story/pending_hooks.md#H003",
+    "story/pending_hooks.md#H004"
   ],
   "notes": []
 }

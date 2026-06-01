@@ -3,13 +3,25 @@
   "version": "0.1.0",
   "language": "zh",
   "llm": {
-    "provider": "custom",
-    "service": "custom",
+    "provider": "openai",
+    "service": "custom:53hk 中转 API",
     "configSource": "project",
     "baseUrl": "https://api.53hk.cn/v1",
-    "model": "MiniMax-M2.7-highspeed",
+    "model": "MiniMax-M2.7",
     "apiFormat": "chat",
-    "stream": true
+    "stream": true,
+    "services": [
+      {
+        "service": "custom",
+        "name": "53hk 中转 API",
+        "baseUrl": "https://api.53hk.cn/v1",
+        "temperature": 0.7,
+        "apiFormat": "chat",
+        "stream": true
+      }
+    ],
+    "defaultModel": "MiniMax-M2.7",
+    "temperature": 0.7
   },
   "notify": [],
   "inputGovernanceMode": "v2",
