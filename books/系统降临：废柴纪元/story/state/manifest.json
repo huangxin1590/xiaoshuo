@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "language": "zh",
+  "lastAppliedChapter": 1,
+  "projectionVersion": 1,
+  "migrationWarnings": [
+    "伏笔ID:startChapter normalized from \"描述\" to 0",
+    "伏笔ID:lastAdvancedChapter normalized from \"预期回收章节\" to 0",
+    "H001:lastAdvancedChapter normalized from \"系统激活，但仅恢复部分修为（炼体境五重），完整金手指功能未知\" to 0",
+    "H002:lastAdvancedChapter normalized from \"林尘三年前丹田被废的真相未揭示，仅知是“一夜之间”被废\" to 0",
+    "H003:lastAdvancedChapter normalized from \"柳家退婚，林尘反击后留下“现在的我确实配不上你”的反讽\" to 0",
+    "H004:lastAdvancedChapter normalized from \"二长老林远山在祭祖大典上维护林尘，嘴角有笑意\" to 0"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 1,
+      "type": "悬念",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第2章逐步揭示",
+      "notes": "新手大礼包内容、系统完整功能待揭晓"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 1,
+      "type": "悬念",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "父亲林啸天失踪与此是否有关？"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 1,
+      "type": "关系",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "柳如烟已开始后悔，后续可能反转"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 1,
+      "type": "角色",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "他是否知道三年前真相？"
+    }
+  ]
+}
