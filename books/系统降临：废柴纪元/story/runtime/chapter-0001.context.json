@@ -9,12 +9,7 @@
     {
       "source": "story/current_focus.md",
       "reason": "Current task focus for this chapter.",
-      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
-    },
-    {
-      "source": "story/audit_drift.md",
-      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
-      "excerpt": "> 第1章审计发现以下问题，下一章写作时必须避免："
+      "excerpt": "在\"废柴逆袭+系统装逼\"的爽文框架下，融入真实的社会现象，增强代入感与思想深度。每一次\"管闲事\"都要让读者觉得\"这种事真的会发生\"，同时用林尘的智慧给出一个\"虽然离谱但解气\"的结局。"
     },
     {
       "source": "story/current_state.md",
@@ -34,17 +29,17 @@
     {
       "source": "runtime/hook_debt#H001",
       "reason": "含原始种子文本的叙事债务简报。",
-      "excerpt": "H001（悬念，备忘引用旧债，已开0章） | 读者承诺：第2章逐步揭示 | 种于第1章：ch1 祭祖大典 - 祭祖大典上林尘被林风当众羞辱；沈家上门退婚，沈溪直言“你配不上我”；林尘在最绝望时激活【万界无敌系统】，丹田修复，修为恢复至炼体境五重；一拳打飞林风，震慑全场；留下反讽后离场"
+      "excerpt": "H001（悬念，备忘引用旧债，已开0章） | 读者承诺：第2章逐步揭示 | 种于第1章：ch1 林尘、林风、林震岳、林远山、沈元昌、沈溪 - 林尘：淬体零重→五重；丹田修复；获得系统 | 推进于第0章：ch2 林尘、李伯 - 林尘：系统激活首日"
     },
     {
       "source": "story/current_state.md#当前冲突",
       "reason": "Relevant current-state fact retrieved for the current chapter goal.",
-      "excerpt": "当前冲突 | 林尘当众反击林风，修为恢复暴露，引发全族震动；与沈家退婚关系彻底破裂；三年前被废的真相仍未知"
+      "excerpt": "当前冲突 | 林尘当众反击林风，修为恢复暴露，引发全族震动；与柳家退婚关系彻底破裂；三年前被废的真相仍未知"
     },
     {
       "source": "story/current_state.md#当前敌我",
       "reason": "Relevant current-state fact retrieved for the current chapter goal.",
-      "excerpt": "当前敌我 | 敌：林风（被一拳打伤，结仇）、大长老林震岳（态度不明，但已不满）、沈家（退婚，关系破裂）；中立/潜在友：二长老林远山（曾教他修炼，嘴角有笑意）"
+      "excerpt": "当前敌我 | 敌：林风（被一拳打伤，结仇）、大长老林震岳（态度不明，但已不满）、柳家（退婚，关系破裂）；中立/潜在友：二长老林远山（曾教他修炼，嘴角有笑意）"
     },
     {
       "source": "story/current_state.md#当前目标",

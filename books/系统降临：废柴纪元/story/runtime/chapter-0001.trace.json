@@ -17,7 +17,6 @@
   "selectedSources": [
     "runtime/chapter_memo",
     "story/current_focus.md",
-    "story/audit_drift.md",
     "story/current_state.md",
     "story/outline/story_frame.md",
     "story/outline/volume_map.md",
