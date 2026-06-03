@@ -104,13 +104,14 @@
   {
     "number": 4,
     "title": "崖壁之下",
-    "status": "ready-for-review",
+    "status": "audit-failed",
     "wordCount": 3602,
     "createdAt": "2026-06-03T15:58:04.713Z",
-    "updatedAt": "2026-06-03T16:18:37.675Z",
+    "updatedAt": "2026-06-03T16:39:51.009Z",
     "auditIssues": [
       "[info] 本章“仿佛”出现1次（“像石头砸进水里”改为“仿佛”），AI标记词密度略高，建议删除或替换为非禁词表达。",
-      "[info] 出现1次“冷笑”（未在正文中显式出现，但对话氛围可能接近），未触发warning；AI标记词（如“像”“仿佛”）密度2次/3000字，略低于阈值，但建议关注整体密度。"
+      "[info] 出现1次“冷笑”（未在正文中显式出现，但对话氛围可能接近），未触发warning；AI标记词（如“像”“仿佛”）密度2次/3000字，略低于阈值，但建议关注整体密度。",
+      "[warning] Manual text edit requires review before continuation."
     ],
     "lengthWarnings": [],
     "lengthTelemetry": {
@@ -139,7 +140,7 @@
     "status": "audit-failed",
     "wordCount": 2041,
     "createdAt": "2026-06-03T16:16:25.300Z",
-    "updatedAt": "2026-06-03T16:25:08.087Z",
+    "updatedAt": "2026-06-03T16:40:17.334Z",
     "auditIssues": [
       "[info] 第4段“他深呼吸，逼着自己别蜷缩”中“深呼吸”偏说明性，可改为动作“他吸了一口气，牙关咬紧”。第16段“他点了点头”可删掉“了”变成“他点头”。全章“了”字密度约8%，控制良好，但个别句子可再精简。",
       "[warning] Manual text edit requires review before continuation."
