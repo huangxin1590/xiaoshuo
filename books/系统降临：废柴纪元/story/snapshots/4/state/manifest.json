@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "language": "zh",
-  "lastAppliedChapter": 2,
+  "lastAppliedChapter": 4,
   "projectionVersion": 1,
   "migrationWarnings": [
     "伏笔ID:startChapter normalized from \"描述\" to 0",
@@ -37,6 +37,15 @@
     "H005:lastAdvancedChapter normalized from \"Ch2：兑现Ch1系统预告\"今晚会有人来\"——黑衣人（淬体五重死士）翻墙入院，被林尘用迟滞符+柴刀+麻绳组合反杀；杀手咬毒自尽，未留活口\" to 0",
     "H007:lastAdvancedChapter normalized from \"Ch2：系统给出生存率评估\"百分之四十二\"，\"七日内存活\"任务剩余六天；任务奖励诱人但风险极高\" to 0",
     "H008:lastAdvancedChapter normalized from \"Ch2：林尘在小院墙上刻下第四道线——\"今天\"；前三道线对应三年前搬进偏院、去年冬天高烧濒死、三个月前丹田无气感\" to 0",
-    "H009:lastAdvancedChapter normalized from \"Ch2：反杀现场留下焦黑符痕、裂开的青石板（硫磺气）、黑衣人尸体；林尘选择不藏尸——\"告诉林震岳，你派的人我杀了\"\" to 0"
+    "H009:lastAdvancedChapter normalized from \"Ch2：反杀现场留下焦黑符痕、裂开的青石板（硫磺气）、黑衣人尸体；林尘选择不藏尸——\"告诉林震岳，你派的人我杀了\"\" to 0",
+    "H004:lastAdvancedChapter normalized from \"Ch4林远山送粥纸条，警告“有狗闻着味来了”，确认暗中保护\" to 0",
+    "H010:status normalized from \"新\" to \"open\"",
+    "H010:lastAdvancedChapter normalized from \"石缝刻痕：“七月初七”“三枚兽血草换不起”“玉簪轮廓”\" to 0",
+    "H011:status normalized from \"新\" to \"open\"",
+    "H011:lastAdvancedChapter normalized from \"石头背面箭头指向东南（东河镇/沧澜江方向）\" to 0",
+    "H012:status normalized from \"新\" to \"open\"",
+    "H012:lastAdvancedChapter normalized from \"内门弟子背后有“七哥”（后天境），令牌铁铸有纹路\" to 0",
+    "H013:status normalized from \"新\" to \"open\"",
+    "H013:lastAdvancedChapter normalized from \"林远山提前得知“有狗闻着味”，提醒林尘避开\" to 0"
   ]
 }

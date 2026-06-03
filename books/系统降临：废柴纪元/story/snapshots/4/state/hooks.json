@@ -7,7 +7,7 @@
       "status": "open",
       "lastAdvancedChapter": 0,
       "expectedPayoff": "",
-      "notes": "[new] 女刺客腰带上的七芒腰牌 || 原因：第一个指向“父亲旧敌”的物证，涉及父亲失踪真相"
+      "notes": "[new] 内门弟子携带的令牌刻有“七号门”暗记，暗示此事与林震岳或某人有关 || 理由：埋下后续追查线索，但不在本章点破——林尘此刻无暇深究，且需等对手下次现身才能利用。"
     },
     {
       "hookId": "hook-2",
@@ -16,7 +16,7 @@
       "status": "open",
       "lastAdvancedChapter": 0,
       "expectedPayoff": "",
-      "notes": "[new] 系统绑定后显示的存活倒计时“6天23小时59分” || 原因：制造紧迫感，为第3–7章逐日推进设定阶段目标"
+      "notes": "[new] 裂缝深处有一截断裂的玉簪残片，颜色与林啸天失踪前常用的一支相似 || 理由：父亲失踪线索进一步具象化，但残片含义不明，需后续调研。"
     },
     {
       "hookId": "hook-3",
@@ -25,7 +25,7 @@
       "status": "open",
       "lastAdvancedChapter": 0,
       "expectedPayoff": "",
-      "notes": "[new] 林鹿鸣半夜出现在灵溪巷口，停留三息后离开 || 原因：妹妹行为反常，预示暗中观察或另有目的"
+      "notes": "林尘在本章使用洞察之眼观察内门弟子修为（淬体七重），但系统提示“权限不足”无法读取更多（planted → pressured）"
     },
     {
       "hookId": "hook-4",
@@ -34,7 +34,7 @@
       "status": "open",
       "lastAdvancedChapter": 0,
       "expectedPayoff": "",
-      "notes": "父亲失踪 → 林尘在睡去前闪回三年前雨夜父亲出门的眼神（从无→首次碎片）"
+      "notes": "（无）"
     },
     {
       "hookId": "hook-5",
@@ -43,7 +43,7 @@
       "status": "open",
       "lastAdvancedChapter": 0,
       "expectedPayoff": "",
-      "notes": "无（首章无待结算钩子）"
+      "notes": "林鹿鸣夜访 → 本章不动，理由：林鹿鸣线需等白天家族内互动再推进，计划此前通过林尘回府后遇到林鹿鸣来advance。"
     },
     {
       "hookId": "hook-6",
@@ -52,16 +52,7 @@
       "status": "open",
       "lastAdvancedChapter": 0,
       "expectedPayoff": "",
-      "notes": "新手礼包/系统功能 → 本周不做展示，留此后章节"
-    },
-    {
-      "hookId": "hook-7",
-      "startChapter": 0,
-      "type": "unspecified",
-      "status": "open",
-      "lastAdvancedChapter": 0,
-      "expectedPayoff": "",
-      "notes": "林远山巷口暗影 → 暂不确认，具体身份留后续揭示"
+      "notes": "林远山巷口暗影 → 本章不动，理由：林远山未出现在此场景，计划此前通过林尘询问林远山时影射推进。"
     }
   ]
 }

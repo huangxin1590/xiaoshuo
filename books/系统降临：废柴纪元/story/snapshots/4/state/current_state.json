@@ -1,0 +1,53 @@
+{
+  "chapter": 4,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "林府偏院",
+      "validFromChapter": 4,
+      "validUntilChapter": null,
+      "sourceChapter": 4
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "淬体五重，后腰刀伤未愈，掌心扎刺已挑出；获得兽血草×1",
+      "validFromChapter": 4,
+      "validUntilChapter": null,
+      "sourceChapter": 4
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "存活过七日倒计时；采集兽血草（还差6株）；调查父亲失踪线索",
+      "validFromChapter": 4,
+      "validUntilChapter": null,
+      "sourceChapter": 4
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "淬体五重无法与后天境正面对抗；内门弟子已开始追查；不可暴露真实实力",
+      "validFromChapter": 4,
+      "validUntilChapter": null,
+      "sourceChapter": 4
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "敌：林震岳势力（内门弟子、“七哥”等）；友：林远山（暗中帮助）",
+      "validFromChapter": 4,
+      "validUntilChapter": null,
+      "sourceChapter": 4
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "双线并行：①躲避追杀并完成采药任务；②追查父亲留下的刻痕线索（七月初七、玉簪、东南箭头）",
+      "validFromChapter": 4,
+      "validUntilChapter": null,
+      "sourceChapter": 4
+    }
+  ]
+}

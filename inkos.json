@@ -4,10 +4,10 @@
   "language": "zh",
   "llm": {
     "provider": "openai",
-    "service": "deepseek",
+    "service": "siliconcloud",
     "configSource": "project",
-    "baseUrl": "https://api.deepseek.com",
-    "model": "deepseek-v4-flash",
+    "baseUrl": "https://api.siliconflow.cn/v1",
+    "model": "deepseek-ai/DeepSeek-V4-Pro",
     "apiFormat": "chat",
     "stream": true,
     "services": [
@@ -24,9 +24,15 @@
         "temperature": 0.7,
         "apiFormat": "chat",
         "stream": true
+      },
+      {
+        "service": "siliconcloud",
+        "temperature": 0.7,
+        "apiFormat": "chat",
+        "stream": true
       }
     ],
-    "defaultModel": "deepseek-v4-flash",
+    "defaultModel": "deepseek-ai/DeepSeek-V4-Pro",
     "temperature": 0.7
   },
   "notify": [],

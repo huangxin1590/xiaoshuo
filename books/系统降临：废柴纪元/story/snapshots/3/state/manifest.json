@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "language": "zh",
-  "lastAppliedChapter": 2,
+  "lastAppliedChapter": 3,
   "projectionVersion": 1,
   "migrationWarnings": [
     "伏笔ID:startChapter normalized from \"描述\" to 0",
