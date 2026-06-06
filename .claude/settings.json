@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sL --connect-timeout 10 --max-time 15 \"https://raw.githubusercontent.com/visense/inkos/main/README.md\")",
+      "Bash(grep -iA 30 \"detection\")",
+      "Read(//d/soft/nvmDesktop/nodes/22.22.3/node_modules/@actalk/inkos/node_modules/@actalk/inkos-core/dist/llm/**)",
+      "Read(//d/soft/nvmDesktop/nodes/22.22.3/node_modules/@actalk/inkos/node_modules/@actalk/inkos-core/dist/**)",
+      "Read(//d/soft/nvmDesktop/nodes/22.22.3/node_modules/@actalk/inkos/dist/**)"
+    ],
+    "additionalDirectories": [
+      "D:\\soft\\nvmDesktop\\nodes\\22.22.3\\node_modules\\@actalk\\inkos\\node_modules\\@actalk\\inkos-core\\dist\\llm\\providers\\endpoints"
+    ]
+  }
+}

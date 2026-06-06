@@ -4,20 +4,10 @@
   "language": "zh",
   "llm": {
     "provider": "openai",
-    "configSource": "project",
-    "baseUrl": "https://api.deepseek.com",
-    "model": "deepseek-v4-flash",
     "apiFormat": "chat",
     "stream": true,
+    "temperature": 0.7,
     "services": [
-      {
-        "service": "custom",
-        "name": "DeepSeek (Anthropic 兼容)",
-        "baseUrl": "https://api.deepseek.com/anthropic",
-        "temperature": 0.7,
-        "apiFormat": "chat",
-        "stream": true
-      },
       {
         "service": "deepseek",
         "temperature": 0.7,
@@ -25,9 +15,10 @@
         "stream": true
       }
     ],
-    "temperature": 0.7,
     "defaultModel": "deepseek-v4-flash",
-    "service": "deepseek"
+    "service": "deepseek",
+    "baseUrl": "https://api.deepseek.com",
+    "model": "deepseek-v4-flash"
   },
   "notify": [],
   "inputGovernanceMode": "v2",

@@ -1,0 +1,67 @@
+{
+  "hooks": [
+    {
+      "hookId": "H010",
+      "startChapter": 14,
+      "type": "七号台手脚",
+      "status": "resolved",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第16章已回收",
+      "notes": "从planted→resolved，林尘已确认但未公开"
+    },
+    {
+      "hookId": "H012",
+      "startChapter": 16,
+      "type": "雷架焦痕",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第17章对手反击",
+      "notes": "从pressured→near_payoff，焦痕与林远山观察位置吻合"
+    },
+    {
+      "hookId": "H019",
+      "startChapter": 16,
+      "type": "阵枢刻痕与古井残片纹路同源",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第18章古井探索",
+      "notes": "新钩，揭1埋2"
+    },
+    {
+      "hookId": "H020",
+      "startChapter": 16,
+      "type": "林远山暗中观察但不干预",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第17章对手反击时自然触发",
+      "notes": "新钩，信任裂口"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 9,
+      "type": "守拙诀来历",
+      "status": "deferred",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第19章父子线索联动揭开",
+      "notes": "时机未到"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 3,
+      "type": "杂役腰牌",
+      "status": "deferred",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "后续章节",
+      "notes": "作为新钩子的物理锚点，暂不展开"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 4,
+      "type": "父亲刻痕线索",
+      "status": "deferred",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "后续章节",
+      "notes": "父子线索主线"
+    }
+  ]
+}
