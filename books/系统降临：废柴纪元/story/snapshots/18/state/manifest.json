@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "language": "zh",
-  "lastAppliedChapter": 20,
+  "lastAppliedChapter": 18,
   "projectionVersion": 1,
   "migrationWarnings": [
     "伏笔ID:startChapter normalized from \"描述\" to 0",
@@ -65,11 +65,6 @@
     "H009:status normalized from \"defer\" to \"open\"",
     "H009:lastAdvancedChapter normalized from \"不动\" to 0",
     "H003:status normalized from \"defer\" to \"open\"",
-    "H003:lastAdvancedChapter normalized from \"不动\" to 0",
-    "H019:lastAdvancedChapter normalized from \"Ch17：林昭银链坠片纹路与古井腰牌碎片同源确认；Ch18：古井第三层暗格铜牌纹路与阵枢刻痕完全一致\" to 0",
-    "H020:lastAdvancedChapter normalized from \"Ch17：林远山颔首确认，心照不宣；Ch18：林远山放竹枝指路\" to 0",
-    "H022:lastAdvancedChapter normalized from \"Ch17：林昭银链坠片纹路与古井碎片同源确认\" to 0",
-    "H023:lastAdvancedChapter normalized from \"Ch17：雷架焦痕下铜牌边缘露出\" to 0",
-    "H024:lastAdvancedChapter normalized from \"Ch19：地契指向城外废弃矿坑；\"远山横处，故人归\"纸条出现\" to 0"
+    "H003:lastAdvancedChapter normalized from \"不动\" to 0"
   ]
 }

@@ -274,5 +274,108 @@
       "completionTokens": 20301,
       "totalTokens": 127888
     }
+  },
+  {
+    "number": 18,
+    "title": "井底",
+    "status": "audit-failed",
+    "wordCount": 4444,
+    "createdAt": "2026-06-06T14:46:20.286Z",
+    "updatedAt": "2026-06-06T15:23:34.927Z",
+    "auditIssues": [
+      "[info] 出现禁词「仿佛」2次（符合每章不超过2次规则，但接近上限），建议减少使用或替换为动作描写。",
+      "[info] 本章为低谷/过渡章，已完成信息收集和铺垫功能，节奏波形正常。无明显节奏停滞或高潮后影响缺失。",
+      "[info] 本章推进了H020（林昭银链同源）、H019（古井藏物）至新发现阶段，未产生过期或长期受阻伏笔。伏笔池中无升级=是的伏笔逾期。",
+      "[info] 章节字数约3000汉字，出现「仿佛」2次，超过每3000字1次的警戒线，建议降为0-1次。",
+      "[info] S006（林啸天失踪线）在本章有新增物证（地图、铜牌），确认从重复提及转向真实推进。S014（林远山秘密线）通过竹枝暗示推进关系。无支线沉寂。",
+      "[warning] 最近4章持续高压（紧张→压抑→爆发→冷硬决绝→微亮希望 -> 紧张→发现线索→警惕→微暖（盟友动向）→冷硬坚定 -> 凝重、冷静算计，带一丝警惕和战略耐心 -> 紧张、压抑、精准计算、暗中角力），缺少明显的情绪释放。",
+      "[warning] Manual text edit requires review before continuation."
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "softMin": null,
+      "softMax": null,
+      "hardMin": null,
+      "hardMax": null,
+      "countingMode": "zh_chars",
+      "writerCount": 4444,
+      "postWriterNormalizeCount": 4444,
+      "postReviseCount": 0,
+      "finalCount": 4444,
+      "normalizeApplied": false,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 125210,
+      "completionTokens": 20334,
+      "totalTokens": 145544
+    }
+  },
+  {
+    "number": 19,
+    "title": "竹枝所指",
+    "status": "audit-failed",
+    "wordCount": 3771,
+    "createdAt": "2026-06-06T15:21:22.967Z",
+    "updatedAt": "2026-06-06T15:26:11.865Z",
+    "auditIssues": [
+      "[info] H012 已在前两章 resolved，但本章未对相关伏笔状态进行显式确认（如井底铜牌与林昭银链的同源关系）。当前伏笔池为空，无法判断升级伏笔的 stale/blocked 状态。建议在后续章节中更新伏笔池以保持追踪。",
+      "[info] 本章为探索+推理章（B类蓄压），但距离上一章（公开退婚+情绪高潮）只有1章间隔，且第18章已开始蓄压。连续2章蓄压而未产生任何爆发/兑现，形成轻微节奏停滞风险。最近3章类型序列：第16章（信息确认，紧张）、第17章（战斗+智斗，紧张）、第18章（井底探索，蓄压）、第19章（偏院探索，继续蓄压）。连续两章纯积累无释放，读者期待开始堆积。",
+      "[warning] 最近4章持续高压（紧张→压抑→爆发→冷硬决绝→微亮希望 -> 紧张→发现线索→警惕→微暖（盟友动向）→冷硬坚定 -> 凝重、冷静算计，带一丝警惕和战略耐心 -> 紧张、压抑、精准计算、暗中角力），缺少明显的情绪释放。",
+      "[warning] Manual text edit requires review before continuation."
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "softMin": null,
+      "softMax": null,
+      "hardMin": null,
+      "hardMax": null,
+      "countingMode": "zh_chars",
+      "writerCount": 3771,
+      "postWriterNormalizeCount": 3771,
+      "postReviseCount": 0,
+      "finalCount": 3771,
+      "normalizeApplied": false,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 52846,
+      "completionTokens": 10728,
+      "totalTokens": 63574
+    }
+  },
+  {
+    "number": 20,
+    "title": "矿坑",
+    "status": "audit-failed",
+    "wordCount": 3631,
+    "createdAt": "2026-06-06T16:08:13.537Z",
+    "updatedAt": "2026-06-06T16:23:55.868Z",
+    "auditIssues": [
+      "[critical] 章节摘要（来自系统上下文）明确定义第20章应为青阳榜半决赛+决赛的高潮章节，但实际成稿完全围绕矿坑探索展开，闭口不提青阳榜。这导致第一卷核心高潮被延后，破坏了「蓄压→爆发」的固有节奏，读者预期落空，属于严重结构偏离。",
+      "[warning] 「像是」一词在本章中出现至少5次（开头、中部、结尾），违反文风指南中「仿佛/似乎/好像/像是/宛如每章不超过2次」的规定，造成重复感和AI味。",
+      "[info] 「了」字在动词后出现频率偏高，尤其是连续动作段落（“溜出了”“亮了”“松了”“摸出了”），虽然未超出硬性15%限制，但建议在后续章节中有意减少，特别是段尾聚集的“动词+了”结构。",
+      "[warning] 最近4章持续高压（紧张→压抑→爆发→冷硬决绝→微亮希望 -> 紧张→发现线索→警惕→微暖（盟友动向）→冷硬坚定 -> 凝重、冷静算计，带一丝警惕和战略耐心 -> 紧张、压抑、精准计算、暗中角力），缺少明显的情绪释放。",
+      "[warning] Manual text edit requires review before continuation."
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "softMin": null,
+      "softMax": null,
+      "hardMin": null,
+      "hardMax": null,
+      "countingMode": "zh_chars",
+      "writerCount": 3631,
+      "postWriterNormalizeCount": 3631,
+      "postReviseCount": 0,
+      "finalCount": 3631,
+      "normalizeApplied": false,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 49696,
+      "completionTokens": 12814,
+      "totalTokens": 62510
+    }
   }
 ]
