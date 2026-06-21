@@ -1,5 +1,5 @@
 {
-  "chapter": 23,
+  "chapter": 27,
   "plannerInputs": [
     "D:\\code\\my\\xiaoshuo\\books\\系统降临：废柴纪元\\story\\author_intent.md",
     "D:\\code\\my\\xiaoshuo\\books\\系统降临：废柴纪元\\story\\current_focus.md",
@@ -12,7 +12,7 @@
     "D:\\code\\my\\xiaoshuo\\books\\系统降临：废柴纪元\\story\\memory.db"
   ],
   "composerInputs": [
-    "D:\\code\\my\\xiaoshuo\\books\\系统降临：废柴纪元\\story\\runtime\\chapter-0023.intent.md"
+    "D:\\code\\my\\xiaoshuo\\books\\系统降临：废柴纪元\\story\\runtime\\chapter-0027.intent.md"
   ],
   "selectedSources": [
     "runtime/chapter_memo",
@@ -24,11 +24,18 @@
     "story/chapter_summaries.md#recent_titles",
     "story/chapter_summaries.md#recent_mood_type_trail",
     "story/chapters#recent_endings",
+    "runtime/hook_debt#angmen-monitor",
+    "runtime/hook_debt#mentor-oath",
     "story/current_state.md#当前目标",
     "story/current_state.md#当前冲突",
     "story/current_state.md#主角状态",
     "story/current_state.md#当前限制",
-    "story/chapter_summaries.md#20"
+    "story/chapter_summaries.md#16",
+    "story/chapter_summaries.md#17",
+    "story/chapter_summaries.md#25",
+    "story/chapter_summaries.md#26",
+    "story/pending_hooks.md#angmen-monitor",
+    "story/pending_hooks.md#mentor-oath"
   ],
   "notes": []
 }

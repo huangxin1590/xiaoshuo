@@ -1,0 +1,49 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 23,
+      "type": "人物",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第26章结合林震岳视角",
+      "notes": "林尘已留字条约见，将在24-25章接触"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 23,
+      "type": "场景",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第24章林尘返回现场时发现脚印被填",
+      "notes": "井底秘密将逐步揭开，但本章不进入"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 23,
+      "type": "线索",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "井底探索（预计24-25章）",
+      "notes": "S006“林啸天失踪线”推进至25%"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 23,
+      "type": "关系",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "已解决（关系升级）",
+      "notes": "S014“林远山秘密线”完成阶段性升级"
+    },
+    {
+      "hookId": "H005",
+      "startChapter": 23,
+      "type": "线索",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "需后续查明身份",
+      "notes": "可能是灰袍人安排的第二层监视"
+    }
+  ]
+}

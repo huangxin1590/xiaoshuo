@@ -1,0 +1,24 @@
+{
+  "hooks": [
+    {
+      "hookId": "angmen-monitor",
+      "startChapter": 25,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 25,
+      "expectedPayoff": "确认铁门槛内侧炭粉标记是否被破坏——验证是否有人二次进入七号门",
+      "payoffTiming": "near-term",
+      "notes": "本章新建并推进：林尘通过现场勘查确认锁芯有新鲜锉痕（带倒刺粗齿锉，碎屑银白未氧化）、润滑脂被掺砖灰换过（三个轴节油量不均）、铁门内有二人散乱脚印（一大一小）、拖痕从门内往外（约两指宽，灰尘松软未结块），证据链完整，七号门被动过手脚从猜测升级为实证"
+    },
+    {
+      "hookId": "mentor-oath",
+      "startChapter": 25,
+      "type": "relationship",
+      "status": "open",
+      "lastAdvancedChapter": 25,
+      "expectedPayoff": "揭开师债真相",
+      "payoffTiming": "immediate",
+      "notes": "本章推进：林尘确认密道墙上新划痕（共七道，每道离地面六寸，方向朝前）不是林远山手笔（林远山习惯留纸条和口信，不会在墙上做记号），林远山给图时手指在折痕裂口上摩挲过——通过图纸细节进一步理解林远山的信任交付"
+    }
+  ]
+}

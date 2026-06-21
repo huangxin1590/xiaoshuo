@@ -1,0 +1,53 @@
+{
+  "chapter": 28,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "信息战 + 监视对抗。三线交汇：父亲失踪线（矿洞+下月初八）被验证真实，但林震岳派系监视升级为梁叔站桩，林尘行动窗口急剧缩小。新悬念：未知人物要求中午前厅会面，时间点紧接粉末线索获取，非巧合。",
+      "validFromChapter": 28,
+      "validUntilChapter": null,
+      "sourceChapter": 28
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "王掌柜（单向信任，已获情报但不可再回）；林远山（默契保护，密道来源，但角门被盯死使密道也面临暴露风险）",
+      "validFromChapter": 28,
+      "validUntilChapter": null,
+      "sourceChapter": 28
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "调查城外废弃矿洞（下月初八），查明父亲‘当饵’真相；同时应对中午前厅会面（未知人物）",
+      "validFromChapter": 28,
+      "validUntilChapter": null,
+      "sourceChapter": 28
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "林府内宅房间内（后院/厨房后返回）",
+      "validFromChapter": 28,
+      "validUntilChapter": null,
+      "sourceChapter": 28
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "角门被林震岳亲信梁叔彻底盯死；正常出门会被盘问；密道可能是最后一次可用；中午需赴前厅见未知人物；三天后需赴城西药铺见灰袍人",
+      "validFromChapter": 28,
+      "validUntilChapter": null,
+      "sourceChapter": 28
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "淬体五重，高度警觉，体力正常。确认房间被翻、监视升级至梁叔站桩、粉末来自矿洞下层、王掌柜线索真实。已将粉末藏入墙缝，短刃备好，木炭做记号。",
+      "validFromChapter": 28,
+      "validUntilChapter": null,
+      "sourceChapter": 28
+    }
+  ]
+}

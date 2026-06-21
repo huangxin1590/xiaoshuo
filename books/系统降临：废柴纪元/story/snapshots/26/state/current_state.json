@@ -1,0 +1,53 @@
+{
+  "chapter": 26,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "信息战：三线交汇——林尘已获关键情报（林父失踪线的新指向），但林震岳派系在调整监视策略，七号门暴露风险升级。",
+      "validFromChapter": 26,
+      "validUntilChapter": null,
+      "sourceChapter": 26
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "林远山（默契保护，灰袍人暗示其知晓部分往事）",
+      "validFromChapter": 26,
+      "validUntilChapter": null,
+      "sourceChapter": 26
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "查明父亲林啸天失踪前最后一晚在兴隆赌坊见的老板身份",
+      "validFromChapter": 26,
+      "validUntilChapter": null,
+      "sourceChapter": 26
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "林尘房间（跨院）",
+      "validFromChapter": 26,
+      "validUntilChapter": null,
+      "sourceChapter": 26
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "不可贸然暴露七号门已被监视；林震岳派系正在调整/升级夜间监视模式（从蹲守换为站姿，人可能已换）；三天后需赴城西药铺见灰袍人；七号门回程路线已被堵（因角门监视者变化）。",
+      "validFromChapter": 26,
+      "validUntilChapter": null,
+      "sourceChapter": 26
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "淬体五重，警觉冷静，体力正常。返回后坐在黑暗中复盘，手指在密道图的城西岔口区域反复摸过。",
+      "validFromChapter": 26,
+      "validUntilChapter": null,
+      "sourceChapter": 26
+    }
+  ]
+}

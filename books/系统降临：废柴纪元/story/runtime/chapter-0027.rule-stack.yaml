@@ -45,13 +45,13 @@ overrideEdges:
 activeOverrides:
   - from: L4
     to: L3
-    target: chapter:23/styleEmphasis
+    target: chapter:27/styleEmphasis
     reason: 系统只吐槽，不评价对错
   - from: L4
     to: L3
-    target: chapter:23/styleEmphasis
+    target: chapter:27/styleEmphasis
     reason: 吐槽方向：修真世界的离谱程度 vs 现代社会的相似案例
   - from: L4
     to: L3
-    target: chapter:23/styleEmphasis
+    target: chapter:27/styleEmphasis
     reason: 经典吐槽模板：

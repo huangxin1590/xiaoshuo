@@ -1,0 +1,24 @@
+{
+  "hooks": [
+    {
+      "hookId": "angmen-monitor",
+      "startChapter": 25,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 26,
+      "expectedPayoff": "确认角门监视者为何从蹲守换为站姿，以及这是否意味着林震岳派系已经察觉到了林尘的行动",
+      "payoffTiming": "slow-burn",
+      "notes": "正文中进行时：灰袍人明确告知林尘，其父亲林啸天失踪前最后一晚在城西兴隆赌坊见了老板。林尘打算次日去赌坊调查。这是一个明确的未解决问题。"
+    },
+    {
+      "hookId": "mentor-oath",
+      "startChapter": 25,
+      "type": "relationship",
+      "status": "progressing",
+      "lastAdvancedChapter": 26,
+      "expectedPayoff": "揭开师债真相",
+      "payoffTiming": "slow-burn",
+      "notes": "本章灰袍人主动透露林远山的过往（老腿是被打断再接再打断，自己接的），暗示林远山欠债和替人还债，使林尘对林远山的了解加深，师债真相的拼图从‘林远山有秘密’推进到‘林远山的残疾是人为的，与某些债务有关’。注意：不是回收，是推进。"
+    }
+  ]
+}

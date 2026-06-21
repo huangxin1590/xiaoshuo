@@ -1,0 +1,44 @@
+{
+  "hooks": [
+    {
+      "hookId": "angmen-monitor",
+      "startChapter": 25,
+      "type": "mystery",
+      "status": "resolved",
+      "lastAdvancedChapter": 29,
+      "expectedPayoff": "确认角门监视者为何从蹲守换为站姿，以及林震岳派系是否察觉林尘行动",
+      "payoffTiming": "mid-arc",
+      "notes": "林震岳作为林尘的三叔和林家掌权族老，在当面试探后反而主动透露‘矿洞原属周家’‘父亲借旧档’‘腿伤真相’等关键信息。动机不明：是试探林尘知晓程度？是借力打力让林尘卷进去？还是林震岳自己也在查且需要林尘当饵？"
+    },
+    {
+      "hookId": "mentor-oath",
+      "startChapter": 25,
+      "type": "relationship",
+      "status": "progressing",
+      "lastAdvancedChapter": 29,
+      "expectedPayoff": "揭开师债真相",
+      "payoffTiming": "slow-burn",
+      "notes": "林震岳亲口证实：林远山当年‘替人出头’后被林家人打断腿扔出林家，骨头断了三截。从第26章‘残疾是人为/与某些债务有关’推进到‘与林家内斗直接关联’。这是林远山秘密的突破性进展，但具体出头对象和深层原因仍未揭晓。"
+    },
+    {
+      "hookId": "character-确认梁叔黑棍-上的血迹来源-及梁叔在矿洞",
+      "startChapter": 29,
+      "type": "character",
+      "status": "progressing",
+      "lastAdvancedChapter": 29,
+      "expectedPayoff": "确认梁叔黑棍上的血迹来源及梁叔在矿洞/暴行中的角色",
+      "payoffTiming": "near-term",
+      "notes": "本章证实黑脸汉子听命于梁叔，林尘离开前厅时被他在角门处观察——‘监视者’的监视者。黑脸汉子发现林尘目光后立刻转身往柴房，行为可疑。第28章他曾出现在厨房后巷收梁叔递物。"
+    },
+    {
+      "hookId": "item-找到父亲所借-周家旧档-产业登记",
+      "startChapter": 29,
+      "type": "item",
+      "status": "open",
+      "lastAdvancedChapter": 29,
+      "expectedPayoff": "找到父亲所借周家旧档（产业登记/矿洞勘测图/人员名录）",
+      "payoffTiming": "near-term",
+      "notes": "父亲失踪前三天从林震岳处借走周家旧档至今未还。林震岳说旧档包含矿洞勘测图——这可能是林尘调查矿洞的‘地图钥匙’。需在下月初八前找到。当前无任何位置线索。"
+    }
+  ]
+}

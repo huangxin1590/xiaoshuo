@@ -1,0 +1,24 @@
+{
+  "hooks": [
+    {
+      "hookId": "mentor-oath",
+      "startChapter": 25,
+      "type": "relationship",
+      "status": "progressing",
+      "lastAdvancedChapter": 26,
+      "expectedPayoff": "揭开师债真相",
+      "payoffTiming": "slow-burn",
+      "notes": "本章灰袍人主动透露林远山的过往（老腿是被打断再接再打断，自己接的），暗示林远山欠债和替人还债，使林尘对林远山的了解加深，师债真相的拼图从‘林远山有秘密’推进到‘林远山的残疾是人为的，与某些债务有关’。注意：不是回收，是推进。"
+    },
+    {
+      "hookId": "angmen-monitor",
+      "startChapter": 25,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 27,
+      "expectedPayoff": "确认角门监视者为何从蹲守换为站姿，以及林震岳派系是否察觉林尘行动",
+      "payoffTiming": "mid-arc",
+      "notes": "王掌柜提供纸条：城外十五里废弃矿洞，下月初八。父亲遗言‘他们不是想杀我，是想用我当饵’。这是父亲失踪线的最新指向，已从模糊线索推进为具体地点和时间。"
+    }
+  ]
+}
